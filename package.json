@@ -36,7 +36,7 @@
     "lodash": "4.17.21",
     "marked": "0.3.18",
     "method-override": "latest",
-    "moment": "2.15.1",
+    "moment": "2.29.2",
     "mongodb": "^3.5.9",
     "mongoose": "5.13.15",
     "morgan": "latest",
