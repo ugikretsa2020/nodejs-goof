@@ -47,7 +47,7 @@
     "st": "1.2.2",
     "stream-buffers": "^3.0.1",
     "tap": "^14.6.8",
-    "typeorm": "^0.2.25",
+    "typeorm": "^0.3.14",
     "validator": "^13.5.2",
     "@snyk/protect": "latest"
   },
