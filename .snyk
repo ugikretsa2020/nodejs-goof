@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.25.0
+version: v1.25.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -22,3 +22,8 @@ patch:
         patched: '2023-04-03T07:20:36.731Z'
     - tap > nyc > istanbul-lib-instrument > babel-template > babel-traverse > babel-types > lodash:
         patched: '2023-04-03T07:20:36.731Z'
+  'npm:ms:20151024':
+    - humanize-ms > ms:
+        patched: '2023-10-31T07:52:09.998Z'
+        id: 'npm:ms:20151024'
+        path: humanize-ms > ms
